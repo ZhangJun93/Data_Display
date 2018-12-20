@@ -28,7 +28,7 @@
       <file leaf-file-name="MongoOperator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Data_Display/MongoOperator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1252">
+            <state relative-caret-position="1269">
               <caret line="47" column="39" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="47" />
               <folding>
                 <element signature="e#16#36#0" expanded="true" />
@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/../Data_Display/display.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="e#15#35#0" expanded="true" />
               </folding>
@@ -76,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/MongoOperator.py" />
         <option value="$PROJECT_DIR$/display.py" />
+        <option value="$PROJECT_DIR$/../Data_Display/display.py" />
       </list>
     </option>
   </component>
@@ -493,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Data_Display/MongoOperator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1252">
+        <state relative-caret-position="1269">
           <caret line="47" column="39" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="47" />
           <folding>
             <element signature="e#16#36#0" expanded="true" />
@@ -504,7 +505,7 @@
     <entry file="file://$PROJECT_DIR$/../Data_Display/display.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="e#15#35#0" expanded="true" />
           </folding>

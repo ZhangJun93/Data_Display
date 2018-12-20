@@ -6,7 +6,7 @@ from MongoOperator import MongoOperator
 
 db = MongoOperator('127.0.0.1', 27017, 'web_news', 'test_collection')
 
-
+# ##
 def search_action():
     table_name = collection_name_text.get()
 
